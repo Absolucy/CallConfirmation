@@ -1,6 +1,6 @@
 {
-  "name": "plugin-template",
-  "description": "Aliucord iOS plugin template",
+  "name": "aliucord-call-confirmation",
+  "description": "Aliucord iOS plugin to add a confirmation dialog whenever you try to call someone",
   "version": "1.0.0",
   "author": {
     "name": "Lucy",
